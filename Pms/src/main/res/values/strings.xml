@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">去呼呼</string>
+    <string name="action_settings">Settings</string>
+    <string name="hotelList">酒店列表页</string>
+    <string name="title_activity_hotel_list">HotelListActivity</string>
+    <string name="discount_info">账户信息</string>
+    <string name="recommend_shop">建议门店</string>
+    <string name="about_us">关于我们</string>
+
+</resources>
