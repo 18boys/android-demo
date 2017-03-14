@@ -6,5 +6,6 @@
     <string name="discount_info">账户信息</string>
     <string name="recommend_shop">建议门店</string>
     <string name="about_us">关于我们</string>
+    <string name="noData">没有数据~</string>
 
 </resources>
