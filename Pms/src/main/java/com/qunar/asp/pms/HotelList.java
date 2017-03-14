@@ -14,7 +14,7 @@ public class HotelList extends ListActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+        setContentView(R.layout.activity_hotel_list);
         SimpleAdapter adapter = new SimpleAdapter(this,getData(),R.layout.content_hotel_list,
                 new String[]{"title","info","img"},
                 new int[]{R.id.title,R.id.info,R.id.img});
